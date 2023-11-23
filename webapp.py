@@ -10,4 +10,4 @@ import pickle
 import streamlit
 
 #loading the saved model
-loaded_model = pickle.load(open('C:/Users/Annan/Desktop/Summer Training/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
